@@ -4,7 +4,7 @@ Saved all Physics related scripts
         1) Julia Sets
                 The Julia set is the set of points on the complex plane where the series below does not diverge. 
 
-                                                𝑍𝑛+1= 𝑍𝑛^2+𝐶                                              (1.0)
+                                                𝑍_(𝑛+1) = 𝑍_𝑛^2+𝐶                                              (1.0)
 
                 Here C is a constant in the complex plane, and 𝑍0, the initial value, is each point on the 
                 complex plane.
