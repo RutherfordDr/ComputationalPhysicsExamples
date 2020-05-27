@@ -13,5 +13,5 @@ Saved all Physics related scripts
                 It then plots the Julia Set for Z = Z^2 + 0.7885e^(i*a) where a ranges from 0 to 2pi, and then 
                 makes a gif of the changing values. 
 
-                <img src="animationHalfQuality.gif" width="750" align="center">
+                ![Alt Text](https://github.com/RutherfordDr/ComputationalPhysicsExamples/blob/master/animationHighQuality.gif)
                 References: ℎ𝑡𝑡𝑝://𝑝𝑎𝑢𝑙𝑏𝑜𝑢𝑟𝑘𝑒.𝑛𝑒𝑡/𝑓𝑟𝑎𝑐𝑡𝑎𝑙𝑠/𝑗𝑢𝑙𝑖𝑎𝑠𝑒𝑡/
