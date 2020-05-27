@@ -14,7 +14,7 @@ Saved all Physics related scripts
                 makes a gif of the changing values. 
                 
                 References: ℎ𝑡𝑡𝑝://𝑝𝑎𝑢𝑙𝑏𝑜𝑢𝑟𝑘𝑒.𝑛𝑒𝑡/𝑓𝑟𝑎𝑐𝑡𝑎𝑙𝑠/𝑗𝑢𝑙𝑖𝑎𝑠𝑒𝑡/
-
-![Alt Text](https://github.com/RutherfordDr/ComputationalPhysicsExamples/blob/master/animationHighQuality.gif)
-
+<p align="center">
+  <img src="https://github.com/RutherfordDr/ComputationalPhysicsExamples/blob/master/animationHighQuality.gif" width="900" height="650" />
+</p>
 
